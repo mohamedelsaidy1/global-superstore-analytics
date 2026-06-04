@@ -31,6 +31,13 @@
 ![Insights](screenshots/insights.png)
 
 ---
+Power BI Dashboard File
+
+The Power BI dashboard file can be downloaded from the link below:
+
+📊 Download PBIX File
+
+https://drive.google.com/file/d/1HRBLsDWdtXdIxBHfxaHQGoVtH0ng1CiL/view?usp=sharing
 
 # Project Overview
 
